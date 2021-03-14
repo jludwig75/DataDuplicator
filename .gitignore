@@ -1,0 +1,7 @@
+.vs
+Debug
+DataDuplicator/Debug
+DataDuplicator/x64
+x64
+*.vcxproj.user
+

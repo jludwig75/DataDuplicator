@@ -1,0 +1,14 @@
+Source:
+- Generate list of files.
+- Report file list to destination
+- Listen for file copy requests
+
+Destination:
+- Generate list of files
+- Listen for file list from source
+  - For each file listed on source
+    - If file is not present, request copy from destination
+    - Add to file list
+
+
+
